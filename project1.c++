@@ -10,7 +10,7 @@ kata1:      // يقوم بقل المستخدم من البرنامج المست
     cout << "1: reads a number entered by the user and ther prints whether the number is (negative or positive && even or odd)" << endl;
     cout << "2: that reads four values entered  the user, then arranges the in ascending order and prints them" << endl;
     cout << "3: prints the multiplication table (1-12)for any number entered by the user" << endl;
-    cout << "4: prints the Fibonacci series" << endl;
+    cout << "4: prints the Fibonacci serie" << endl;
     cout << "5: prints the following string (1 2 3 4 , 2 4 6 8 , 3 6 9 12)" << endl;
     cout << "6: prints the ASCll Code individually for to, including the following(capital letters, small letters,numbers )included witheng one operation" << endl;
     cout << "7: calculates the result and remainder of the division of two input numbers without using the division operation" << endl;

@@ -22,7 +22,7 @@ luffy6:
         {
             if (X[i] == X[j]) // هنا يتحقق اذا كان العنصر موجود من قبل
             {
-                cout << "item already exists.Enter new itrm: ";
+                cout << "item already exists Enter new itrm: ";
                 // العنصر الذي ادخلته موجود ادخل عنصر جديد
                 goto kata;
                 // اذكان العنصر موجود ينتقل لكي يعيد المستخدم ادخال عنصر جديد
